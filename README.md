@@ -1,7 +1,5 @@
 # LoveLetterForYou
 
-有一个工科女友是怎么一种体验？
-
 Decode the bin file,Get the love msg;
 
 ---

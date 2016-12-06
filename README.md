@@ -35,5 +35,7 @@ Decode the bin file,Get the love msg;
 > 谜底揭开，又告诉我图像是dcm格式标准，每个像素点由十六位，图像是灰度图像。。。。、、
 
 ```
-(⊙o⊙)…，原来如此，0000就是黑色的，ffff位白色的，嗯，开辟一块512*512*sizeof(short int)的内存，并把数据映射成图像，哈哈，LoveLetter出来了。。。
+(⊙o⊙)…，原来如此，0000就是黑色的，ffff位白色的，嗯，开辟一块
+512*512*sizeof(short int)的内存，并把数据映射成图像，
+哈哈，LoveLetter出来了。。。
 ```
